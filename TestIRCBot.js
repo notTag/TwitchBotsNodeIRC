@@ -1,6 +1,6 @@
 var irc = require("irc");
 var config = {
-	channels: ["#quantumDrop", "#dudebrowut", "#yougamebropodcast"],
+	channels: ["#quantumDrop", "#dudebrowut"],
 	server: "irc.chat.twitch.tv",
 	oauth: "oauth:vkadhswpi6vv5rwyulif7eeveblv9n",
 	botName: "gordoTheCat",
