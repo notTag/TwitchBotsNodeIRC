@@ -1,3 +1,5 @@
+# Twitch bot with NODE!
+
 Quick setup guide.
 
 1 Install node irc: 
